@@ -7,3 +7,5 @@
 xd
 
 ## hány lyuk van spongyabobon
+
+### sárga a színe és lyuk rajta tíz
