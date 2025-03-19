@@ -11,3 +11,4 @@ xd
 ### sárga a színe és lyuk rajta tíz
 
 ## TÉNYLEG GECI ERRE ÉN MÉG HOGY NEM JÖTTEM RÁ
+en vagyok az admin
