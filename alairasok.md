@@ -1,2 +1,2 @@
-signed by [sonak](https://github.io/sonkadev)
+signed by [sonak](https://github.com/sonkadev)
 ###### honk mimimimimimimimimi 😴
