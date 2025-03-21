@@ -1,5 +1,5 @@
 # Használt Autó Weboldal 
-###rojekt Leírása
+###projekt Leírása
 ##Ez a weboldal egy használt autók adásvételével foglalkozó platform, ahol a felhasználók böngészhetnek, kereshetnek és hirdethetnek eladó autókat. Célunk, hogy megkönnyítsük a vásárlók és az eladók közötti kapcsolatfelvételt, valamint átlátható és felhasználóbarát élményt ##nyújtsunk.
 
 ##Funkciók
