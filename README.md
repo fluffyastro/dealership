@@ -4,10 +4,10 @@
 
 ## Funkciók
 <h3> Autók Keresése:</h3>
-<h4>A felhasználók különböző szűrők (márka, modell, ár, évjárat) segítségével kereshetnek autókat.</h4>
-<h3>Hirdetés Feladása:</h3> <h4>Az eladók egyszerűen hirdethetik eladó autóikat, feltöltve a szükséges információkat és képeket.</h4>
-<h3>Felhasználói Fiók:</h3> <h4>A felhasználók regisztrálhatnak és bejelentkezhetnek, hogy nyomon követhessék hirdetéseiket és kedvenc autóikat.</h4>
-<h3>Kapcsolatfelvétel:</h3> <h4>A potenciális vásárlók közvetlenül kapcsolatba léphetnek az eladókkal az oldalon keresztül.</h4>
+<h4>A felhasználók különböző szűrők (márka, modell, ár, évjárat) segítségével kereshetnek autókat.</h4><br>
+<h3>Hirdetés Feladása:</h3> <h4>Az eladók egyszerűen hirdethetik eladó autóikat, feltöltve a szükséges információkat és képeket.</h4><br>
+<h3>Felhasználói Fiók:</h3> <h4>A felhasználók regisztrálhatnak és bejelentkezhetnek, hogy nyomon követhessék hirdetéseiket és kedvenc autóikat.</h4><br>
+<h3>Kapcsolatfelvétel:</h3> <h4>A potenciális vásárlók közvetlenül kapcsolatba léphetnek az eladókkal az oldalon keresztül.</h4><br>
 
 
 
