@@ -28,3 +28,5 @@ xd
 ## TÉNYLEG GECI ERRE ÉN MÉG HOGY NEM JÖTTEM RÁ
 en vagyok az admin
 
+signed by [sonak](https://github.com/sonkadev)
+###### honk mimimimimimimimimi 😴
